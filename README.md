@@ -1,12 +1,12 @@
 # Will Johnson
-willyum2n at the free electronic mail that google provides
+willyum2n * @ * the free electronic mail that Google provides
 
 # Languages
 C#, C#/Mono, Groovy, Java, C, C++, Bash, VB/VBA
 
 # Work Experience
 
-## Funovation (Longmont, CO)
+## Funovation (Longmont, CO) (Remotely worked from Atlanta)
 *Gaming Attractions Company (Laser Maze Challenge and R.A.I.D Game) (www.funovation.com)*
 
 **Senior Software Engineer** (2015 - Current) (Software Contracting started in 2010)
@@ -18,7 +18,7 @@ C#, C#/Mono, Groovy, Java, C, C++, Bash, VB/VBA
 - Built custom scripting language on top of firmware interface for latest product to realize new games without having to recompile and deploy game code.
 - Designed and maintain VPN networks that allows for best-in-industry customer support, software deployment, and streaming log data from all game systems. This critical network drives all day-to-day operation and allows for near real-time error detection in customer systems. We've fixed issues in customer systems before they even knew they had a problem.
 - Designed and developed reporting tools that allow support personnel to determine enterprise level health and arm them with the info needed to keep our customers making money
-- Developed Automated manufacturing of Raid commputing cluster so that untrained personnel can fabricate/deliver the R.A.I.D product
+- Developed Automated manufacturing of Raid computing cluster so that untrained personnel can fabricate/deliver the R.A.I.D product
 
 ## Spireon (Irvine, CA) (Remotely worked from Atlanta)
 *GPS Asset Tracking (www.spireon.com)*
@@ -28,7 +28,7 @@ C#, C#/Mono, Groovy, Java, C, C++, Bash, VB/VBA
 - Continued support and development of the application I built for EliteTrak, which was purchased by Spireon.
 - Worked on interior enterprise adminstration application for managing millions of M2M devices/services
 
-## EliteTrak  (Woodstock, GA)
+## EliteTrak  (Woodstock, GA) (Remotely worked from Atlanta)
 *GPS Asset Tracking and installation company*
 
 **Software Consulting** (2010 - 2013)
